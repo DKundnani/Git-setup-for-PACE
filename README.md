@@ -15,8 +15,8 @@ things... but, it doesn't try that hard.  So be careful and read warning and
 error messages closely.
 
 ### Resources
-0.  Read the [Getting Started Tutorial]( https://git-scm.com/book/en/v2/Getting-Started-Git-Basics), maybe use the [interactive tutorial](https://try.github.io/) 
-1.  Log or Sign up into your Github account (https://www.github.com) 
+1.  Read the [Getting Started Tutorial]( https://git-scm.com/book/en/v2/Getting-Started-Git-Basics), maybe use the [interactive tutorial](https://try.github.io/) 
+2.  Log or Sign up into your Github account (https://www.github.com) 
 3.  Click + Button to create a repository wiht README
 
 ## Git Setup on Linux Servers using SSH key
