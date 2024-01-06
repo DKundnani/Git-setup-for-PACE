@@ -46,11 +46,8 @@ error messages closely.
 	```  
 
 	Make sure to chmod 600 on `~/.ssh/config`  
-
 5.  Clone the repo you created using SSH  
-	---  
 	![clone with ssh](clone-with-ssh.png)    
-	---  
 6.  Write a brief intro to your repository in README using your favorite editor.  Be sure to use Markdown formatting! [Formatting guide](https://guides.github.com/features/mastering-markdown/)   
 7.  Add your files and commit your changes. See [Cheatsheet](Git-Cheat-sheet-best.png)   
 8.  If you make changes on the website, create a pull request. Refer the Cheatsheet [Cheatsheet](Git-Cheat-sheet-best.png)   
@@ -86,13 +83,11 @@ error messages closely.
 	git config --global credential.helper store
 	```   
 3.  Clone the repo you created using SSH  
-	---  
-	![clone with ssh](clone-with-ssh.png)    
-	---  
-    	The Token created will be used a password while your cloning or creating Git repository. Please refer to the [Cheatsheet](Git-Cheat-sheet-best.png) 
-4.  Write a brief intro to your repository in README using your favorite editor.  Be sure to use Markdown formatting! [Formatting guide](https://guides.github.com/features/mastering-markdown/)   
-5.  Add your files and commit your changes. See [Cheatsheet](Git-Cheat-sheet-best.png)   
-6.  If you make changes on the website, create a pull request. Refer the Cheatsheet [Cheatsheet](Git-Cheat-sheet-best.png)   
+	![clone with ssh](clone-with-ssh.png)
+	The Token created will be used a password while your cloning or creating Git repository. Please refer to the [Cheatsheet](Git-Cheat-sheet-best.png) 
+5.  Write a brief intro to your repository in README using your favorite editor.  Be sure to use Markdown formatting! [Formatting guide](https://guides.github.com/features/mastering-markdown/)   
+6.  Add your files and commit your changes. See [Cheatsheet](Git-Cheat-sheet-best.png)   
+7.  If you make changes on the website, create a pull request. Refer the Cheatsheet [Cheatsheet](Git-Cheat-sheet-best.png)   
 
 
 
