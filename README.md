@@ -38,7 +38,7 @@ error messages closely.
 	cat ~/.ssh/github.pub
 	ssh-rsa 			AAAAB3NzaC1yc2EAAAABIwAAAQEAmooN/dvBVe29fqWCYw7LXFqjNzmVaBWGXf2H936JC3QgQ2XLYMFDQCQ/z62S0yVFTUjZGyDGFESfdeJI5BddKLOLEvrEsIQBOnpA4zaNAY6ET3Sc/XzaaG3up4wvsR7cibaJQLjTn3L3w+lN4SyVXp23kl80Rrzr6jsHAYeCscSI1WNSqxmqH3z6YmOMHSNqAMgT5A2zzVTVC6Yl7XV1w8wUjzogPklnLU/q3wJnJxCBV136+VaUft5rMYMuEsp62OK2CbpZYuAXmqdkiG0Q7x9irrjBcg2uqGBHCDvqN5T6o22Xp00A6aPmT+xE5RPpurWGu0RWaJN3BkCuq7QxlQ== dkundnani3@gatech.edu 
 	```   
-3.  Add this public key to your github account: https://github.gatech.edu/settings/keys   
+3.  Add this public key to your github account: [https://github.gatech.edu/settings/keys](https://github.com/settings/keys)
 4.  Add the below to `~/.ssh/config`   
 	```
 	host github.com
